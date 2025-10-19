@@ -290,7 +290,7 @@ body {
         flex-direction: column;
         width: 661px;
           .inner__title{
-            width: 601px;
+            width: 582px;
             font-size: 36px ;
             line-height: 44px;
             font-weight:600;
@@ -342,6 +342,7 @@ body {
         gap: 40px 30px;
         max-width: 540px;
           .inner__warp{
+            gap: 16px;
             display: flex;
             align-items: center;
             width: calc((100% - 30px) / 2); 
